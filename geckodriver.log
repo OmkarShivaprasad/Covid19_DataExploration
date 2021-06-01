@@ -1574,3 +1574,4 @@ JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEven
 JavaScript warning: https://pagead2.googlesyndication.com/bg/_ITcuHTDnJFauDqltlBqrEjQ-T5zT23sppn99C3Ar0M.js line 1 > eval line 1235 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript warning: https://pagead2.googlesyndication.com/bg/_ITcuHTDnJFauDqltlBqrEjQ-T5zT23sppn99C3Ar0M.js line 1 > eval line 1235 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
