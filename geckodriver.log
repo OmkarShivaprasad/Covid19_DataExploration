@@ -1,0 +1,1530 @@
+1616049351981	geckodriver	INFO	Listening on 127.0.0.1:51319
+1616049355106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile4An4sx"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616049357895	Marionette	INFO	Listening on port 51331
+1616049358334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616049358350	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 5151 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 5151 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileGCTash"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616049381698	Marionette	INFO	Listening on port 51487
+1616049382189	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616049382201	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3256: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3314: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 5604 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 5604 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616120070005	geckodriver	INFO	Listening on 127.0.0.1:49746
+1616120073084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile13ZSJv"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616120075692	Marionette	INFO	Listening on port 49754
+1616120075793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616120075803	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1378: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1436: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 7501 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 7501 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile2fOOy5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616120090017	Marionette	INFO	Listening on port 49901
+1616120090308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616120090320	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3256: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3314: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 130 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 130 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52717
+1616129927794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileK9xzjS"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616129930376	Marionette	INFO	Listening on port 52726
+1616129930510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616129930627	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 7466 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 7466 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileN5X2f5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616129945970	Marionette	INFO	Listening on port 52877
+1616129946063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616129946077	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3256: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3314: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 2934 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 2934 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\omkar\AppData\Local\Temp\rust_mozprofileN5X2f5\bookmarkbackups\bookmarks-2021-03-19_11_DrRjl2iNqzOmXRPXxFaqyw==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616130090281	Marionette	INFO	Listening on port 53184
+1616130090558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616130090571	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1378: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1436: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 6375 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 6375 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilexszoRZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616130105560	Marionette	INFO	Listening on port 53343
+1616130105629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616130105653	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3256: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3314: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 7810 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 7810 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilej0d756"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616130443764	Marionette	INFO	Listening on port 53949
+1616130444023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616130444040	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1378: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1436: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 7224 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 7224 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileDFVAaS"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616130461407	Marionette	INFO	Listening on port 54088
+1616130461512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616130461530	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 5474 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 5474 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55998
+1616134676771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileQHVPpw"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616134679251	Marionette	INFO	Listening on port 56006
+1616134679487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616134679505	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1378: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1436: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 4762 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 4762 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\omkar\AppData\Local\Temp\rust_mozprofileQHVPpw\bookmarkbackups\bookmarks-2021-03-19_11_mWuy3hqXcpFBzn-ZP8A8GQ==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616134694175	Marionette	INFO	Listening on port 56155
+1616134694251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616134694267	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 7276 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 7276 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:56827
+1616136059113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilenuE4PB"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616136062160	Marionette	INFO	Listening on port 56835
+1616136062378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616136062407	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1378: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1436: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 3831 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 3831 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\omkar\AppData\Local\Temp\rust_mozprofilenuE4PB\bookmarkbackups\bookmarks-2021-03-19_11_KpbqHYAKJm95i4zqQMVhnA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616136087005	Marionette	INFO	Listening on port 57000
+1616136087448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616136087464	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3256: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3314: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 7591 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 7591 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55532
+1616215735258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile4nhGh3"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616215739460	Marionette	INFO	Listening on port 55541
+1616215739526	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616215739544	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 1395 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 1395 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileGqaTbw"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616215764336	Marionette	INFO	Listening on port 55697
+1616215764760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616215764772	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 6652 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 6652 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616217236263	geckodriver	INFO	Listening on 127.0.0.1:56511
+1616217239314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile2nc8Xq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616217243160	Marionette	INFO	Listening on port 56520
+1616217243564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616217243622	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 4323 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 4323 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilejMEM43"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616217273865	Marionette	INFO	Listening on port 56680
+1616217274493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616217274556	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 6171 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 6171 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilergeLCL"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616217438154	Marionette	INFO	Listening on port 56941
+1616217438583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616217438599	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 69 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 69 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileIm8Ou0"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616217457205	Marionette	INFO	Listening on port 57139
+1616217457723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616217457734	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 3132 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 3132 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileNorVnS"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616217832344	Marionette	INFO	Listening on port 57629
+1616217832549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616217832592	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 4255 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 4255 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileat1CbE"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616217866214	Marionette	INFO	Listening on port 57813
+1616217866462	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616217866505	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 429 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 429 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616274057789	geckodriver	INFO	Listening on 127.0.0.1:61009
+1616274060840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile93syBR"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616274064467	Marionette	INFO	Listening on port 61017
+1616274064610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616274064632	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2094 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2094 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilezaSAk5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616274083613	Marionette	INFO	Listening on port 61223
+1616274083724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616274083754	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3256: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3314: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 6718 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 6718 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:61649
+1616274702121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilenmqOHz"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616274705311	Marionette	INFO	Listening on port 61657
+1616274705363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616274705382	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2868 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2868 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile9CXwoC"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616274723558	Marionette	INFO	Listening on port 61792
+1616274723612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616274723634	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3255: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4981 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4981 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile0mRrfa"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616295926359	Marionette	INFO	Listening on port 62534
+1616295926565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616295926588	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 423 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 423 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileXJm8Rv"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616295943918	Marionette	INFO	Listening on port 62741
+1616295944016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616295944033	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3258: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3316: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3667 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3667 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilekiM4v8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616296364167	Marionette	INFO	Listening on port 62999
+1616296364530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616296364546	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+1616296367439	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1999 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1999 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilecdnEb2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616296430557	Marionette	INFO	Listening on port 63319
+1616296430912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616296430923	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 764 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 764 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile1OsC3K"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616296446101	Marionette	INFO	Listening on port 63467
+1616296446458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616296446468	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 628 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 628 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616297163944	geckodriver	INFO	Listening on 127.0.0.1:63973
+1616297166968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile29g6Tz"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616297170153	Marionette	INFO	Listening on port 63981
+1616297170226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616297170250	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1720 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1720 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileISbNO8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616297188333	Marionette	INFO	Listening on port 64164
+1616297188804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616297188828	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7396 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7396 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Listening on 127.0.0.1:64595
+1616298067544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile8hUDWT"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616298071401	Marionette	INFO	Listening on port 64603
+1616298071789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616298071832	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7401 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7401 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile5LXxvi"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616298090702	Marionette	INFO	Listening on port 64808
+1616298090953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616298090992	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5110 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5110 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616299293946	geckodriver	INFO	Listening on 127.0.0.1:49486
+1616299297105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilew2hCDT"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616299302037	Marionette	INFO	Listening on port 49497
+1616299302310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616299302341	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+1616299305948	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1616299306110	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 6476 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 6476 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+x\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileDQpNb9"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616299328496	Marionette	INFO	Listening on port 49632
+1616299328839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616299328871	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3258: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3316: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 803 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 803 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616300230699	geckodriver	INFO	Listening on 127.0.0.1:50250
+1616300233775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileC1wXpy"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616300237803	Marionette	INFO	Listening on port 50258
+1616300238017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616300238035	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4505 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4505 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile54HUv1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616300273544	Marionette	INFO	Listening on port 50434
+1616300274007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616300274028	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1426 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1426 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616303747643	geckodriver	INFO	Listening on 127.0.0.1:49269
+1616303750709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilem7EzwW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616303753983	Marionette	INFO	Listening on port 49279
+1616303754457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616303754472	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+1616303759105	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5255 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5255 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilexazeUQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616303781746	Marionette	INFO	Listening on port 49433
+1616303782235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616303782479	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3254: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3312: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4059 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4059 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616305553354	geckodriver	INFO	Listening on 127.0.0.1:51523
+1616305556387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileOcF87s"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616305560348	Marionette	INFO	Listening on port 51533
+1616305560651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616305560665	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4849 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 4849 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile6Y4Tv7"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616305589783	Marionette	INFO	Listening on port 51683
+1616305589992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616305590016	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+1616305592849	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1358 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1358 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileADco74"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616305770900	Marionette	INFO	Listening on port 52031
+1616305771532	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616305771551	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 311 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 311 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofiledSLHZx"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616305818630	Marionette	INFO	Listening on port 52182
+1616305819090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616305819114	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3254: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3312: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1625 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1625 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616307034700	geckodriver	INFO	Listening on 127.0.0.1:52949
+1616307037769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilebDjdxd"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616307040896	Marionette	INFO	Listening on port 52957
+1616307041022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616307041052	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5236 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5236 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile6Vylkf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616307064580	Marionette	INFO	Listening on port 53136
+1616307064958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616307064972	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 869 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 869 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616314990929	geckodriver	INFO	Listening on 127.0.0.1:58968
+1616314994003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile0anrZm"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616314998248	Marionette	INFO	Listening on port 58976
+1616314998728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616314998745	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1051 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1051 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileeCLTNw"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616315030903	Marionette	INFO	Listening on port 59126
+1616315031383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616315031407	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3554 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3554 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616316197440	geckodriver	INFO	Listening on 127.0.0.1:59662
+1616316200654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilemG0cia"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616316207386	Marionette	INFO	Listening on port 59671
+1616316208039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616316208115	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 6933 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 6933 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileocGBAl"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616316244403	Marionette	INFO	Listening on port 59838
+1616316244692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616316244826	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1649 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1649 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616316989220	geckodriver	INFO	Listening on 127.0.0.1:60360
+1616316992007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileHHvpHZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616316999956	Marionette	INFO	Listening on port 60368
+1616317000094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616317000153	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1437 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1437 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+out of memory: 0x0000000000020000 bytes requested
+JavaScript error: chrome://browser/content/tabbrowser.js, line 1854: uncaught exception: out of memory
+out of memory: 0x0000000000000080 bytes requested
+1616317056723	geckodriver	INFO	Listening on 127.0.0.1:60538
+1616317059970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile1wGXk3"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616317069500	Marionette	INFO	Listening on port 60547
+1616317069937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616317070082	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3254: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3312: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7593 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7593 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616317604904	geckodriver	INFO	Listening on 127.0.0.1:55185
+1616317607946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileegNCcj"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616317611490	Marionette	INFO	Listening on port 55193
+1616317611775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616317611820	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+1616317615091	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1724 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1724 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilesbRcig"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616317633982	Marionette	INFO	Listening on port 55338
+1616317634185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616317634219	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5151 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5151 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616318474449	geckodriver	INFO	Listening on 127.0.0.1:55844
+1616318477500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilejH2qhV"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616318480765	Marionette	INFO	Listening on port 55852
+1616318480999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616318481034	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3248 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3248 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilebDrkao"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616318518252	Marionette	INFO	Listening on port 56026
+1616318518552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616318518789	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3254: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3312: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3490 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3490 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616345294106	geckodriver	INFO	Listening on 127.0.0.1:58228
+1616345297158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileKWHTGl"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616345300724	Marionette	INFO	Listening on port 58237
+1616345300922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616345300946	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3676 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3676 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileLb4qNB"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616345328121	Marionette	INFO	Listening on port 58434
+1616345328612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616345328630	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3254: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3312: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1822 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1822 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616379158896	geckodriver	INFO	Listening on 127.0.0.1:55082
+1616379161946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilezpEa9k"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616379166465	Marionette	INFO	Listening on port 55091
+1616379166975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616379166991	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3401 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3401 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1616379205087	geckodriver	INFO	Listening on 127.0.0.1:55253
+1616379339389	geckodriver	INFO	Listening on 127.0.0.1:55490
+1616379342454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile7X3l7L"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616379346751	Marionette	INFO	Listening on port 55500
+1616379347036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616379347071	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1275 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1275 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileRJe6rG"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616379366033	Marionette	INFO	Listening on port 55648
+1616379366152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616379366183	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1894 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1894 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616380608378	geckodriver	INFO	Listening on 127.0.0.1:50382
+1616380611418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofiledEf3oJ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616380614230	Marionette	INFO	Listening on port 50391
+1616380614631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616380614650	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 780 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 780 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileV6JEje"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616380633957	Marionette	INFO	Listening on port 50534
+1616380634248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616380634268	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3254: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3312: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2723 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2723 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1616476076349	geckodriver	INFO	Listening on 127.0.0.1:50247
+1616476079388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileBnwd7c"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616476082285	Marionette	INFO	Listening on port 50259
+1616476082592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616476082607	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1378: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1436: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1867 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 1867 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilecB09Gb"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616476105256	Marionette	INFO	Listening on port 50418
+1616476105448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616476105460	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3259: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3317: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3549 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3549 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616562272161	geckodriver	INFO	Listening on 127.0.0.1:63180
+1616562275240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilezUPJDG"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616562278469	Marionette	INFO	Listening on port 63189
+1616562278979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616562278997	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+1616562283793	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 1613 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 1613 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileCJiX2H"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616562295114	Marionette	INFO	Listening on port 63335
+1616562295257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616562295271	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3258: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3316: unreachable code after return statement
+1616562298121	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 4853 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 4853 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58892
+1616649042630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilet40Fkb"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616649045460	Marionette	INFO	Listening on port 58901
+1616649045829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616649045840	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 984 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 984 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileyQ1PlW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616649061326	Marionette	INFO	Listening on port 59048
+1616649061522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616649061555	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3258: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3316: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 3116 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZArymxbzecLhY03DLGwiUyfzg.js line 1 > eval line 3116 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616734170551	geckodriver	INFO	Listening on 127.0.0.1:62401
+1616734173585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileyHscJd"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616734176745	Marionette	INFO	Listening on port 62437
+1616734176874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616734176898	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2268 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2268 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileP9HMAU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616734194686	Marionette	INFO	Listening on port 62626
+1616734195135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616734195158	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3256: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3314: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7756 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7756 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1617082493253	geckodriver	INFO	Listening on 127.0.0.1:63641
+1617082496316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilepau5Ft"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617082500355	Marionette	INFO	Listening on port 63650
+1617082500574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617082500617	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 5771 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 5771 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileFzt4qs"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617082517508	Marionette	INFO	Listening on port 63794
+1617082517577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617082517599	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3256: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3314: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 7269 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 7269 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617083026117	addons.xpi	ERROR	Failed to download system add-on reset-search-defaults@mozilla.com: Error: Failed downloading via XHR, status: 0, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:244:16) JS Stack trace: fail@ProductAddonChecker.jsm:244:16
+1617576759800	geckodriver	INFO	Listening on 127.0.0.1:49770
+1617576762884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileeUx0yW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617576765505	Marionette	INFO	Listening on port 49780
+1617576765633	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617576765652	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UnhshoEcEp7BUdiAp0L0lVvGOuovhfpkH6FMm_tLZKs.js line 1 > eval line 3252 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UnhshoEcEp7BUdiAp0L0lVvGOuovhfpkH6FMm_tLZKs.js line 1 > eval line 3252 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileSClEGX"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617576781627	Marionette	INFO	Listening on port 49928
+1617576782101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617576782118	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3259: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3317: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UnhshoEcEp7BUdiAp0L0lVvGOuovhfpkH6FMm_tLZKs.js line 1 > eval line 393 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UnhshoEcEp7BUdiAp0L0lVvGOuovhfpkH6FMm_tLZKs.js line 1 > eval line 393 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617586053038	geckodriver	INFO	Listening on 127.0.0.1:50905
+1617586056099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilektOvJa"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617586058435	Marionette	INFO	Listening on port 50913
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617586058789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617586058802	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1377: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1435: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UnhshoEcEp7BUdiAp0L0lVvGOuovhfpkH6FMm_tLZKs.js line 1 > eval line 157 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UnhshoEcEp7BUdiAp0L0lVvGOuovhfpkH6FMm_tLZKs.js line 1 > eval line 157 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilexoDdHN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617586075901	Marionette	INFO	Listening on port 51079
+1617586076083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617586076098	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3257: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3315: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UnhshoEcEp7BUdiAp0L0lVvGOuovhfpkH6FMm_tLZKs.js line 1 > eval line 4499 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UnhshoEcEp7BUdiAp0L0lVvGOuovhfpkH6FMm_tLZKs.js line 1 > eval line 4499 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1621219365320	geckodriver	INFO	Listening on 127.0.0.1:57441
+1621219368404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilevEyjtH"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621219371622	Marionette	INFO	Listening on port 57453
+1621219372140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621219372157	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1445: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 3493 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 3493 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileEaooRs"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621219405386	Marionette	INFO	Listening on port 57607
+1621219405529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621219405548	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 1445: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 2719 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 2719 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59304
+1621220859509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileod8OmL"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621220862786	Marionette	INFO	Listening on port 59312
+1621220863237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621220863252	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1445: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 3234 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 3234 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileJaUZ3G"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621220879519	Marionette	INFO	Listening on port 59448
+1621220879569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621220879605	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 1445: unreachable code after return statement
+1621220882919	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1621220884029	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 5458 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 5458 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60850
+1621224699610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileTm71YJ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621224702918	Marionette	INFO	Listening on port 60860
+1621224703353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621224703370	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1445: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 4369 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 4369 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileA3dGXv"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621224721664	Marionette	INFO	Listening on port 61008
+1621224721979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621224721996	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 1445: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 7002 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 7002 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:61750
+1621225634422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile7HhxbN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621225637754	Marionette	INFO	Listening on port 61758
+1621225638183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621225638203	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1445: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 5963 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 5963 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileMOYH88"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621225655540	Marionette	INFO	Listening on port 61898
+1621225655720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621225655735	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 1445: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 962 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nLZh5JKb4_vODtvfmJ49yJer_4HAQSIF0KjuUH5BuEE.js line 1 > eval line 962 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1621822034966	geckodriver	INFO	Listening on 127.0.0.1:59003
+1621822038026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileSnBkTi"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621822041474	Marionette	INFO	Listening on port 59011
+1621822041829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621822041857	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1445: unreachable code after return statement
+1621822047026	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 5829 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 5829 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilekUj8MI"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621822058617	Marionette	INFO	Listening on port 59157
+1621822058920	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621822058934	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3263: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3321: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 609 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iqM-SLf9DiRkdYr6mfBBlocjM-gQZqw7kKSrrObPMLw.js line 1 > eval line 609 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622425168519	geckodriver	INFO	Listening on 127.0.0.1:49483
+1622425171585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile3aDcIq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622425175997	Marionette	INFO	Listening on port 49491
+1622425176571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622425176606	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1445: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6272 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 6272 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileArV55w"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622425193131	Marionette	INFO	Listening on port 49718
+1622425193651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622425193668	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3265: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3323: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 1000 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6vmH6gRf2UqLiW2PAyrCu1HDtbEhJxjO0f7Ukk3E6CA.js line 1 > eval line 1000 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622499366509	geckodriver	INFO	Listening on 127.0.0.1:63201
+1622499369566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile1yxHit"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622499374095	Marionette	INFO	Listening on port 63211
+1622499374448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622499374473	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1445: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HZvw8QdJrJJXuJ48IXlV8VF-H8RHnxePCtakS6ABBeA.js line 1 > eval line 1467 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HZvw8QdJrJJXuJ48IXlV8VF-H8RHnxePCtakS6ABBeA.js line 1 > eval line 1467 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileIwRXnA"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622499390687	Marionette	INFO	Listening on port 63364
+1622499390784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622499390810	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3268: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3326: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HZvw8QdJrJJXuJ48IXlV8VF-H8RHnxePCtakS6ABBeA.js line 1 > eval line 1515 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HZvw8QdJrJJXuJ48IXlV8VF-H8RHnxePCtakS6ABBeA.js line 1 > eval line 1515 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622510254312	geckodriver	INFO	Listening on 127.0.0.1:53040
+1622510257417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileTPNpQd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622510260376	Marionette	INFO	Listening on port 53048
+1622510260615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622510260629	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622514703128	Marionette	INFO	Stopped listening on port 53048
+firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileIDonou"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622510265508	Marionette	INFO	Listening on port 53108
+1622510265788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622510265797	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3265: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3323: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HZvw8QdJrJJXuJ48IXlV8VF-H8RHnxePCtakS6ABBeA.js line 1 > eval line 998 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HZvw8QdJrJJXuJ48IXlV8VF-H8RHnxePCtakS6ABBeA.js line 1 > eval line 998 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622512686936	geckodriver	INFO	Listening on 127.0.0.1:54337
+1622512689978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileRPfENf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622512691591	Marionette	INFO	Listening on port 54345
+1622512692052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622512692061	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1445: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HZvw8QdJrJJXuJ48IXlV8VF-H8RHnxePCtakS6ABBeA.js line 1 > eval line 3909 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HZvw8QdJrJJXuJ48IXlV8VF-H8RHnxePCtakS6ABBeA.js line 1 > eval line 3909 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofiles5wJ3C"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622512708069	Marionette	INFO	Listening on port 54484
+1622512708235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622512708254	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622514707918	Marionette	INFO	Stopped listening on port 54484
+firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile3F0WRT"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622512713676	Marionette	INFO	Listening on port 54544
+1622512714017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622512714040	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3264: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3322: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HZvw8QdJrJJXuJ48IXlV8VF-H8RHnxePCtakS6ABBeA.js line 1 > eval line 7266 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HZvw8QdJrJJXuJ48IXlV8VF-H8RHnxePCtakS6ABBeA.js line 1 > eval line 7266 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622577401320	geckodriver	INFO	Listening on 127.0.0.1:49870
+1622577404383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileomDWVL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622577408069	Marionette	INFO	Listening on port 49879
+1622577408606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622577408646	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622582413526	Marionette	INFO	Stopped listening on port 49879
+firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileUlK9dK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622577414997	Marionette	INFO	Listening on port 49951
+1622577415204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622577415214	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1445: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/_ITcuHTDnJFauDqltlBqrEjQ-T5zT23sppn99C3Ar0M.js line 1 > eval line 2332 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/_ITcuHTDnJFauDqltlBqrEjQ-T5zT23sppn99C3Ar0M.js line 1 > eval line 2332 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileM6BNxY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622577430129	Marionette	INFO	Listening on port 50118
+1622577430229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622577430247	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622582413600	Marionette	INFO	Stopped listening on port 50118
+firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileSxCMr6"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622577434705	Marionette	INFO	Listening on port 50178
+1622577434875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622577434885	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3264: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3322: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/_ITcuHTDnJFauDqltlBqrEjQ-T5zT23sppn99C3Ar0M.js line 1 > eval line 2694 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/_ITcuHTDnJFauDqltlBqrEjQ-T5zT23sppn99C3Ar0M.js line 1 > eval line 2694 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622581259667	geckodriver	INFO	Listening on 127.0.0.1:51291
+1622581262746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile40r0YJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622581265601	Marionette	INFO	Listening on port 51300
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622581265947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622581265956	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622582413382	Marionette	INFO	Stopped listening on port 51300
+firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilefePhdf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622581270598	Marionette	INFO	Listening on port 51370
+1622581271078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622581271088	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1445: unreachable code after return statement
+1622581274766	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/_ITcuHTDnJFauDqltlBqrEjQ-T5zT23sppn99C3Ar0M.js line 1 > eval line 6592 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/_ITcuHTDnJFauDqltlBqrEjQ-T5zT23sppn99C3Ar0M.js line 1 > eval line 6592 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile4KboNe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622581286611	Marionette	INFO	Listening on port 51517
+1622581286656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622581286672	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1622582413381	Marionette	INFO	Stopped listening on port 51517
+firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileGHRAGT"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622581291559	Marionette	INFO	Listening on port 51580
+1622581291860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622581291875	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3265: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 3323: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/_ITcuHTDnJFauDqltlBqrEjQ-T5zT23sppn99C3Ar0M.js line 1 > eval line 2795 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/_ITcuHTDnJFauDqltlBqrEjQ-T5zT23sppn99C3Ar0M.js line 1 > eval line 2795 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
