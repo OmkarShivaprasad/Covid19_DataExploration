@@ -11,9 +11,9 @@ This exploratory analysis will provide a broad level overview of the Covid-19 pa
 
 ## Table of Contents:
 
-- [Steps in Analysis](#Steps-in-Analysis:)
-- [Data Sources](#Data-Sources:)
-- [Data Gathering and Cleaning](#Data-Gathering-and-Cleaning:)
+- [Steps in Analysis](#Steps-in-Analysis)
+- [Data Sources](#Data-Sources)
+- [Data Gathering and Cleaning](#Data-Gathering-and-Cleaning)
   * [Global Data](#Global-Data)
   * [United States Data](#United-States-Data)
 - [Visualization](#Visualization)
@@ -23,7 +23,7 @@ This exploratory analysis will provide a broad level overview of the Covid-19 pa
   * [Bubble Plots](#Bubble-Plots)
   * [Scatter Plots](#Scatter-Plots)
   * [Pair Plot](#Pair-Plot)
-- [Geomapping](#Geomapping:)
+- [Geomapping](#Geomapping)
   * [Global Data](#Global-Data)
   * [United States Data](#United-States-Data)
 
