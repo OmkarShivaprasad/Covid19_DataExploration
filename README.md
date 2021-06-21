@@ -1,11 +1,11 @@
-# Covid-19 Exploratory Data Analysis
+# Web Scraping and Cleaning Covid-19 Datasets for Visualization, Analysis, and Geomapping
 ---
 Covid-19 is a disease caused by SARS-CoV-2. The World Health Organization declared the disease a pandemic on March 11th, 2020. Since then there have been numerous outlets that have compiled data and presented information pertaining to its spread. Information from Worldometer, a reference website reputed by the American Library Association, will be used as the primary dataset. Worldometer gathers and compiles information from various sources, including government communication channels as well as local media. It provides live updates on the total cases, new cases, total deaths, new deaths,recoveries and critical cases by country, territory or conveyance pertaining to Covid-19.
 
 ---
 
 ## Overview:
-This exploratory analysis will provide a broad level overview of the Covid-19 pandemic. It will contain information from the most recent update on the Worldometer website. Other datasets will be used in order to supplement the information from the Worldometer dataset in order to aid in visualization and geomappiThis analysis will show the steps for data wrangling using Pandas in order to make data ready for visualization, correlation analysis, and geomapping.
+This project will provide a broad level overview of the Covid-19 pandemic. It will contain information scraped from the most recent update on the Worldometer website. Other datasets will be used in order to supplement the information from the Worldometer dataset.  Steps will be explained for data wrangling using Pandas in order to make data ready for visualization using MatPlotLib and Seaborn, correlation analysis using StatsModel Summary, and geomapping using Plotly Express.
 
 ---
 
