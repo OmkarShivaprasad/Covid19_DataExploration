@@ -1,16 +1,16 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Web Scraping and Cleaning Covid-19 Datasets for Visualization, Analysis, and Geomapping
+# # Wrangling Covid-19 Datasets for Use in Python Data Exploration
 
 # ---
-# Covid-19 is a disease caused by SARS-CoV-2.  The World Health Organization declared the disease a pandemic on March 11th, 2020. Since then there have been numerous outlets that have compiled data and presented information pertaining to its spread. Information from Worldometer, a reference website reputed by the American Library Association, will be used as the primary dataset. Worldometer gathers and compiles information from various sources, including government communication channels as well as local media. It provides live updates on the total cases, new cases, total deaths, new deaths,recoveries and critical cases by country, territory or conveyance pertaining to Covid-19. 
+# Covid-19 is a disease caused by SARS-CoV-2.  The World Health Organization declared the disease a pandemic on March 11th, 2020. Since then there have been numerous outlets that have compiled data and presented information pertaining to its spread. Information from Worldometer, a reference website reputed by the American Library Association, will be used as the primary dataset. Worldometer gathers and compiles information from various sources, including government communication channels as well as local media. It provides live updates on the total cases, new cases, total deaths, new deaths, recoveries and critical cases by country, territory or conveyance pertaining to Covid-19. 
 # 
 # ---
 
 # ### Overview:
 # 
-# This project will provide a broad level overview of the Covid-19 pandemic. It will contain information scraped from the most recent update on the Worldometer website. Other datasets will be used in order to supplement the information from the Worldometer dataset. Steps will be explained for data wrangling using Pandas in order to make data ready for visualization using MatPlotLib and Seaborn, correlation analysis using StatsModel Summary, and geomapping using Plotly Express.    
+# This data exploration will provide a broad level overview of the Covid-19 pandemic based on the most recently updated information on Worldometer. Datasets from various sources will be gathered using webscraping with BeautifulSoup and Selenium; data will then be stored in Pandas dataframes, and cleaned.  The final dataset will demonstrate its readiness for use in visualization with MatplotLib, Seaborn, and Plotly, linear regression analysis with Statsmodel Summary, and geomapping with Plotly Express. 
 
 # ### Steps in Analysis:
 # 
@@ -588,7 +588,7 @@ global_data = global_data.merge(country_area, on='COUNTRY', how='left')
 global_data['POPULATION_DENSITY'] = global_data.POPULATION / global_data.LAND_AREA
 
 
-# In[160]:
+# In[27]:
 
 
 # Check dataframe for null values
@@ -1116,7 +1116,7 @@ us_data.at['Maine','ACTIVECASES'] = maine_active
 us_data.at['Maine','SURVIVAL_RATE'] = (maine_recovered / (us_data.at['Maine', 'TOTALCASES']))
 
 
-# In[159]:
+# In[55]:
 
 
 # DataFrame cleaned of all null values
@@ -1749,7 +1749,7 @@ global_data.describe()
 
 # #### Total Cases Per Million Without Constant
 
-# In[122]:
+# In[71]:
 
 
 X = global_data[['GDP_PER_CAPITA']]             # Independent vars
@@ -1775,7 +1775,7 @@ plt.savefig('images/output1.png')
 
 # #### Total Cases Per Million With Constant
 
-# In[121]:
+# In[72]:
 
 
 X = global_data['GDP_PER_CAPITA']
@@ -1839,7 +1839,7 @@ fig.write_image('images/gdpscatter.png')
 # #### Deaths Per Million Without Constant
 # 
 
-# In[123]:
+# In[74]:
 
 
 X = global_data[['GDP_PER_CAPITA']] 
@@ -1859,7 +1859,7 @@ plt.savefig('images/output3.png')
 
 # #### Deaths Per Million With Constant
 
-# In[124]:
+# In[75]:
 
 
 X = global_data[['GDP_PER_CAPITA']]
@@ -1923,7 +1923,7 @@ fig.write_image('images/gdpdeathscatter.png')
 
 # #### Tests Per Million Without Constant
 
-# In[125]:
+# In[77]:
 
 
 X = global_data[['GDP_PER_CAPITA']] #independent vars
@@ -1943,7 +1943,7 @@ plt.savefig('images/output5.png')
 
 # #### Tests Per Million With Constant
 
-# In[126]:
+# In[78]:
 
 
 X = global_data[['GDP_PER_CAPITA']] #independent vars
@@ -2248,7 +2248,7 @@ dfi.export(geo_global_data, 'images/geoglobaldata.png', max_rows=10)
 geo_global_data.head()
 
 
-# In[137]:
+# In[97]:
 
 
 # DataFrame clean of all null values
@@ -2405,7 +2405,7 @@ us_geodata.at['District Of Columbia','CODE'] = "DC"                        # Loc
 us_geodata.reset_index(inplace= True)
 
 
-# In[139]:
+# In[113]:
 
 
 usgeoisnull = us_geodata.isnull().any()
@@ -2567,6 +2567,17 @@ fig.update_layout(title_x=.5)
 fig.show() 
 
 fig.write_image('images/statedeathchloro.png')
+
+
+# # Export Final Clean Datasets to CSV
+# 
+# ---
+
+# In[121]:
+
+
+geo_global_data.to_csv(r'global_covid_final_data.csv')
+us_geodata.to_csv(r'us_covid_final_data.csv')
 
 
 # In[ ]:
