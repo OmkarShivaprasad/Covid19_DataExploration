@@ -3692,3 +3692,134 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjq
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 1624303717216	Marionette	INFO	Stopped listening on port 58054
 JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\omkar\AppData\Local\Temp\rust_mozprofiler7p2ji\protections.sqlite
+1624336913511	geckodriver	INFO	Listening on 127.0.0.1:60054
+1624336916590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileGHvxvN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624336918617	Marionette	INFO	Listening on port 52450
+1624336918662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624336918671	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/hawaii/, line 1445: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 4705 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 4705 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1624336927185	Marionette	INFO	Stopped listening on port 52450
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\omkar\AppData\Local\Temp\rust_mozprofileGHvxvN\protections.sqlite
+1624336928595	geckodriver	INFO	Listening on 127.0.0.1:52565
+1624336931705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile66ERjc"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624336933049	Marionette	INFO	Listening on port 52574
+1624336933255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624336933262	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/south-carolina/, line 1445: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 1049 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 1049 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1624336940909	Marionette	INFO	Stopped listening on port 52574
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\omkar\AppData\Local\Temp\rust_mozprofile66ERjc\protections.sqlite
+1624336942329	geckodriver	INFO	Listening on 127.0.0.1:52694
+1624336945425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofile2wPGaa"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624336946814	Marionette	INFO	Listening on port 52703
+1624336946999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624336947009	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/indiana/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/indiana/, line 1445: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 2826 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 2826 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1624336954849	Marionette	INFO	Stopped listening on port 52703
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\omkar\AppData\Local\Temp\rust_mozprofile2wPGaa\protections.sqlite
+1624336956222	geckodriver	INFO	Listening on 127.0.0.1:52829
+1624336959300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileuDROCP"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624336960623	Marionette	INFO	Listening on port 52882
+1624336960863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624336960871	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/wisconsin/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/wisconsin/, line 1445: unreachable code after return statement
+1624336963024	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 1053 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 1053 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1624336968438	Marionette	INFO	Stopped listening on port 52882
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\omkar\AppData\Local\Temp\rust_mozprofileuDROCP\protections.sqlite
+1624336969737	geckodriver	INFO	Listening on 127.0.0.1:53014
+1624336972835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilemBvpvd"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624336974119	Marionette	INFO	Listening on port 53023
+1624336974394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624336974403	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/alabama/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/alabama/, line 1445: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 396 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 396 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1624336982094	Marionette	INFO	Stopped listening on port 53023
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\omkar\AppData\Local\Temp\rust_mozprofilemBvpvd\protections.sqlite
+1624336983406	geckodriver	INFO	Listening on 127.0.0.1:53142
+1624336986507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofilejYnMVK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624336988294	Marionette	INFO	Listening on port 53152
+1624336988563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624336988577	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/louisiana/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/louisiana/, line 1445: unreachable code after return statement
+1624336991775	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 7596 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 7596 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1624336997056	Marionette	INFO	Stopped listening on port 53152
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\omkar\AppData\Local\Temp\rust_mozprofilejYnMVK\protections.sqlite
+1624336998601	geckodriver	INFO	Listening on 127.0.0.1:53281
+1624337001675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileQ9J5Kl"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624337002940	Marionette	INFO	Listening on port 53291
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624337003223	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624337003233	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/nebraska/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/nebraska/, line 1445: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 4948 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 4948 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1624337010898	Marionette	INFO	Stopped listening on port 53291
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\omkar\AppData\Local\Temp\rust_mozprofileQ9J5Kl\protections.sqlite
+1624337012241	geckodriver	INFO	Listening on 127.0.0.1:53412
+1624337015335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\omkar\\AppData\\Local\\Temp\\rust_mozprofileQikSe8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624337016600	Marionette	INFO	Listening on port 53422
+1624337016884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624337016891	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/maine/, line 1387: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/usa/maine/, line 1445: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 3023 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eOgDGfqcQegWjA8qbjqFj-1olP7cUin4sCMz-IjcpPs.js line 1 > eval line 3023 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1624337024897	Marionette	INFO	Stopped listening on port 53422
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\omkar\AppData\Local\Temp\rust_mozprofileQikSe8\protections.sqlite
