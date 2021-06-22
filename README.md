@@ -10,7 +10,7 @@ This data exploration will provide a broad level overview of the Covid-19 pandem
 
 </br>
 
-*To veiw the project in its entirety, see 'Project Files' below for veiwing options. Only project output images are shown in this README file.*
+> *To veiw the project in its entirety, see 'Project Files' below for veiwing options. Only project output images are shown in this README file.*
 
 ---
 
@@ -38,9 +38,9 @@ This data exploration will provide a broad level overview of the Covid-19 pandem
 ## Project Files:
 - [Analysis.pdf](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.pdf)- Project PDF </br>
 
-	*This is the most user friendly option to veiw the code and outputs of this project. However, interactive plots will be shown as static images only.* 
-
-	*If you are unable to veiw the PDF in GitHub, click 'Download' to save the file to your computer; if you are on a mobile device, click the three horizontal dots (...) to the right of 'Stored with Git LFS', and then click 'Download' to save to your device.*
+	>*This is the most user friendly option to veiw the code and outputs of this project. However, interactive plots will be shown as static images only.* 
+	>
+	>*If you are unable to veiw the PDF in GitHub, click 'Download' to save the file to your computer; if you are on a mobile device, click the three horizontal dots (...) to the right of 'Stored with Git LFS', and then click 'Download' to save to your device.*
 </br>
 
 - [Analysis.ipynb](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.ipynb)- Jupyter Notebook
