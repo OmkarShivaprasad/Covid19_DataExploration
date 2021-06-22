@@ -6,7 +6,11 @@ Covid-19 is a disease caused by SARS-CoV-2. The World Health Organization declar
 ---
 
 ## Overview:
-This data exploration will provide a broad level overview of the Covid-19 pandemic based on the most recently updated information on Worldometer. Datasets from various sources will be gathered using webscraping with BeautifulSoup and Selenium; this data will be stored in Pandas dataframes, and cleaned.  The final dataset will demonstrate its readiness for use in visualization with MatplotLib, Seaborn, and Plotly, linear regression analysis with Statsmodel Summary, and geomapping with Plotly Express. To veiw the project in its entirety, see 'Project Files' below for veiwing options.
+This data exploration will provide a broad level overview of the Covid-19 pandemic based on the most recently updated information on Worldometer. Datasets from various sources will be gathered using webscraping with BeautifulSoup and Selenium; this data will be stored in Pandas dataframes, and cleaned.  The final dataset will demonstrate its readiness for use in visualization with MatplotLib, Seaborn, and Plotly, linear regression analysis with Statsmodel Summary, and geomapping with Plotly Express. 
+
+</br>
+
+*To veiw the project in its entirety, see 'Project Files' below for veiwing options. Only project output images are shown in this README file.*
 
 ---
 
