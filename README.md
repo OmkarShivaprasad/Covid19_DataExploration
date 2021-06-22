@@ -8,17 +8,11 @@ Covid-19 is a disease caused by SARS-CoV-2. The World Health Organization declar
 ## Overview:
 This data exploration will provide a broad level overview of the Covid-19 pandemic based on the most recently updated information on Worldometer. Datasets from various sources will be gathered using webscraping with BeautifulSoup and Selenium; data will then be stored in Pandas dataframes, and cleaned.  The final dataset will demonstrate its readiness for use in visualization with MatplotLib, Seaborn, and Plotly, linear regression analysis with Statsmodel Summary, and geomapping with Plotly Express. 
 
-## Project Files:
-- [Analysis.pdf](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.pdf)- *This will be the most user friendly option to veiw the code and outputs of this project.*
-- [Analysis.ipynb](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.ipynb)- Jupyter Notebook
-- [Analysis.py](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.py)- Source Code and Markdown
-- [global_covid_final_data.csv](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/global_covid_final_data.csv)- Final Cleaned Global Dataset
-- [us_covid_final_data.csv](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/us_covid_final_data.csv)- Final Cleaned US Dataset
-- [Images](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/images)- Folder containing images of plots, cell outputs, and geomaps
 ---
 
 ## Table of Contents:
-
+- [Project Files](#Project-Files)
+- [Data Sources](#Data-Sources)
 - [Steps in Analysis](#Steps-in-Analysis)
 - [Data Sources](#Data-Sources)
 - [Data Gathering and Cleaning](#Data-Gathering-and-Cleaning)
@@ -35,7 +29,42 @@ This data exploration will provide a broad level overview of the Covid-19 pandem
   * [Global Data](#Global-Data)
   * [United States Data](#United-States-Data)
 
+---
 
+## Project Files:
+- [Analysis.pdf](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.pdf)- *This will be the most user friendly option to veiw the code and outputs of this project.*
+- [Analysis.ipynb](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.ipynb)- Jupyter Notebook
+- [Analysis.py](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.py)- Source Code and Markdown
+- [global_covid_final_data.csv](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/global_covid_final_data.csv)- Final Cleaned Global Dataset
+- [us_covid_final_data.csv](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/us_covid_final_data.csv)- Final Cleaned US Dataset
+- [Images](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/images)- Folder containing images of plots, cell outputs, and geomaps
+
+---
+
+## Data Sources:
+- [Worldometer Covid-19 Live Information (Countries)](https://www.worldometers.info/coronavirus/)
+- [Worldometer Covid-19 Live Information (States)](https://www.worldometers.info/coronavirus/country/us/)
+- [GDP per Capita (Countries)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Resources/csvGDP.csv)
+- [GDP per Capita (Exported for Manual Update)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Resources/gdp_entry.csv.csv)
+- [GDP per Capita (Countries Manually Updated)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Resources/gdp_entry2.csv.csv)
+- [Geospatial Data (States)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/stateshapes)
+- [Geospatial Data (Washington D.C)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/Washington_DC_Boundary)
+- [Geospatial Data (Countries: Source 1)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/Longitude_Graticules_and_World_Countries_Boundaries-shp)
+- [Geospatial Data (Countries: Source 2)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/UIA_World_Countries_Boundaries-shp)
+- [Geospatial Data (CarNetherlands)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/CarNetherlands-shp)
+- [Geospatial Data (Hong Kong)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/HK-shp)
+- [Geospatial Data (Macao)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/Macao-shp)
+- [Geospatial Data (Channel Islands)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/Channel-shp)
+- [Land Size (States)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/Square%20miles.csv)
+- [Land Size (Countries)](https://www.worldometers.info/geography/largest-countries-in-the-world/)
+- [Hawaii Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/hawaii/)
+- [South Carolina Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/south-carolina/)
+- [Indiana Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/indiana/)
+- [Wisconsinn Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/wisconsin/)
+- [Alabama Carolina Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/alabama/)
+- [Louisiana Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/louisiana/)
+- [Nebraska Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/nebraska/)
+- [Maine Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/maine/)
 
 ---
 
@@ -77,32 +106,6 @@ This data exploration will provide a broad level overview of the Covid-19 pandem
 	- Choropleth
 	- ScatterGeo
 
----
-
-## Data Sources:
-- [Worldometer Covid-19 Live Information (Countries)](https://www.worldometers.info/coronavirus/)
-- [Worldometer Covid-19 Live Information (States)](https://www.worldometers.info/coronavirus/country/us/)
-- [GDP per Capita (Countries)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Resources/csvGDP.csv)
-- [GDP per Capita (Exported for Manual Update)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Resources/gdp_entry.csv.csv)
-- [GDP per Capita (Countries Manually Updated)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Resources/gdp_entry2.csv.csv)
-- [Geospatial Data (States)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/stateshapes)
-- [Geospatial Data (Washington D.C)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/Washington_DC_Boundary)
-- [Geospatial Data (Countries: Source 1)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/Longitude_Graticules_and_World_Countries_Boundaries-shp)
-- [Geospatial Data (Countries: Source 2)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/UIA_World_Countries_Boundaries-shp)
-- [Geospatial Data (CarNetherlands)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/CarNetherlands-shp)
-- [Geospatial Data (Hong Kong)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/HK-shp)
-- [Geospatial Data (Macao)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/Macao-shp)
-- [Geospatial Data (Channel Islands)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/Channel-shp)
-- [Land Size (States)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/Square miles.csv)
-- [Land Size (Countries)](https://www.worldometers.info/geography/largest-countries-in-the-world/)
-- [Hawaii Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/hawaii/)
-- [South Carolina Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/south-carolina/)
-- [Indiana Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/indiana/)
-- [Wisconsinn Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/wisconsin/)
-- [Alabama Carolina Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/alabama/)
-- [Louisiana Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/louisiana/)
-- [Nebraska Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/nebraska/)
-- [Maine Recovered and Active Cases](https://www.worldometers.info/coronavirus/usa/maine/)
 ---
 
 # PREVIEW
