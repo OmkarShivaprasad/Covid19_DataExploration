@@ -1,4 +1,4 @@
-# Wrangling Covid-19 Datasets for Use in Python Data Exploration
+# Covid-19 Exploratory Data Analysis Using Python
 
 ---
 Covid-19 is a disease caused by SARS-CoV-2. The World Health Organization declared the disease a pandemic on March 11th, 2020. Since then there have been numerous outlets that have compiled data and presented information pertaining to its spread. Information from Worldometer, a reference website reputed by the American Library Association, will be used as the primary dataset. Worldometer gathers and compiles information from various sources, including government communication channels as well as local media. It provides live updates on the total cases, new cases, total deaths, new deaths,recoveries and critical cases by country, territory or conveyance pertaining to Covid-19.
@@ -7,6 +7,10 @@ Covid-19 is a disease caused by SARS-CoV-2. The World Health Organization declar
 
 ## Overview:
 This data exploration will provide a broad level overview of the Covid-19 pandemic based on the most recently updated information on Worldometer. Datasets from various sources will be gathered using webscraping with BeautifulSoup and Selenium; this data will be stored in Pandas dataframes, and cleaned.  The final dataset will demonstrate its readiness for use in visualization with MatplotLib, Seaborn, and Plotly, linear regression analysis with Statsmodel Summary, and geomapping with Plotly Express. 
+
+</br>
+
+> *To veiw the project in its entirety, see 'Project Files' below for veiwing options. Only project output images are shown in this README file.*
 
 ---
 
@@ -32,9 +36,16 @@ This data exploration will provide a broad level overview of the Covid-19 pandem
 ---
 
 ## Project Files:
-- [Analysis.pdf](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.pdf)- *This will be the most user friendly option to veiw the code and outputs of this project.*
+- [Analysis.pdf](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.pdf)- Project PDF </br>
+
+	>*This is the most user friendly option to veiw the code and outputs of this project. However, interactive plots will be shown as static images only.* 
+	>
+	>*If you are unable to veiw the PDF in GitHub, click 'Download' to save the file to your computer; if you are on a mobile device, click the three horizontal dots (...) to the right of 'Stored with Git LFS', and then click 'Download' to save to your device.*
+</br>
+
 - [Analysis.ipynb](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.ipynb)- Jupyter Notebook
 - [Analysis.py](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.py)- Source Code and Markdown
+- [environments.yml](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/binder) - Dependencies 
 - [global_covid_final_data.csv](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/global_covid_final_data.csv)- Final Cleaned Global Dataset
 - [us_covid_final_data.csv](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/us_covid_final_data.csv)- Final Cleaned US Dataset
 - [Images](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/images)- Folder containing images of plots, cell outputs, and geomaps
