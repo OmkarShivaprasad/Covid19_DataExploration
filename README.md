@@ -80,10 +80,19 @@ This data exploration will provide a broad level overview of the Covid-19 pandem
 ---
 
 ## Data Sources:
-- Worldometer Covid-19 Live Information (Countries and US States)
-- GDP per Capita (Countries)
-- Geospatial Data (Countries and US States)
+- [Worldometer Covid-19 Live Information (Countries)](https://www.worldometers.info/coronavirus/)
+- [Worldometer Covid-19 Live Information (States)](https://www.worldometers.info/coronavirus/)
+- [GDP per Capita (Countries)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Resources/csvGDP.csv)
+- [Geospatial Data (States)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/stateshapes)
+- [Geospatial Data (Washington D.C)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/Washington_DC_Boundary)
+- [Geospatial Data (Countries: Source 1)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/Longitude_Graticules_and_World_Countries_Boundaries-shp)
+- [Geospatial Data (Countries: Source 2)](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/Resources/UIA_World_Countries_Boundaries-shp)
+- 
 - Land Size (Countries)
+
+---
+
+# PREVIEW
 
 ---
 
