@@ -36,9 +36,16 @@ This data exploration will provide a broad level overview of the Covid-19 pandem
 ---
 
 ## Project Files:
-- [Analysis.pdf](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.pdf)- Project PDF: ***This is the most user friendly option to veiw the code and outputs of this project. If you are unable to veiw the PDF in GitHub, click 'Download' to save the file to your computer; if you are on a mobile device, click the three horizontal dots (...) to the right of 'Stored with Git LFS', and then click 'Download' to save to your device.***
+- [Analysis.pdf](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.pdf)- Project PDF </br>
+
+	*This is the most user friendly option to veiw the code and outputs of this project. However, interactive plots will be shown as static images only.* 
+
+	*If you are unable to veiw the PDF in GitHub, click 'Download' to save the file to your computer; if you are on a mobile device, click the three horizontal dots (...) to the right of 'Stored with Git LFS', and then click 'Download' to save to your device.*
+</br>
+
 - [Analysis.ipynb](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.ipynb)- Jupyter Notebook
 - [Analysis.py](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.py)- Source Code and Markdown
+- [environments.yml](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/binder) - Dependencies 
 - [global_covid_final_data.csv](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/global_covid_final_data.csv)- Final Cleaned Global Dataset
 - [us_covid_final_data.csv](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/us_covid_final_data.csv)- Final Cleaned US Dataset
 - [Images](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/images)- Folder containing images of plots, cell outputs, and geomaps
