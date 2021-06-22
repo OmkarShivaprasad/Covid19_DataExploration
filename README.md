@@ -8,6 +8,13 @@ Covid-19 is a disease caused by SARS-CoV-2. The World Health Organization declar
 ## Overview:
 This data exploration will provide a broad level overview of the Covid-19 pandemic based on the most recently updated information on Worldometer. Datasets from various sources will be gathered using webscraping with BeautifulSoup and Selenium; data will then be stored in Pandas dataframes, and cleaned.  The final dataset will demonstrate its readiness for use in visualization with MatplotLib, Seaborn, and Plotly, linear regression analysis with Statsmodel Summary, and geomapping with Plotly Express. 
 
+## Project Files:
+- [Analysis.pdf](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.pdf)- *This will be the most user friendly option to veiw the code and outputs of this project.*
+- [Analysis.ipynb](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.ipynb)- Jupyter Notebook
+- [Analysis.py](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/Analysis.py)- Source Code and Markdown
+- [global_covid_final_data.csv](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/global_covid_final_data.csv)- Final Cleaned Global Dataset
+- [us_covid_final_data.csv](https://github.com/OmkarShivaprasad/Covid19_DataExploration/blob/main/us_covid_final_data.csv)- Final Cleaned US Dataset
+- [Images](https://github.com/OmkarShivaprasad/Covid19_DataExploration/tree/main/images)- Folder containing images of plots, cell outputs, and geomaps
 ---
 
 ## Table of Contents:
@@ -83,7 +90,7 @@ This data exploration will provide a broad level overview of the Covid-19 pandem
 ## Data Gathering and Cleaning:
 </br>
 
-#### *Global Data* 
+### *GLOBAL DATA* 
 </br>
 
 **Global Covid-19 Raw Dataset**
@@ -114,9 +121,17 @@ This data exploration will provide a broad level overview of the Covid-19 pandem
 
 ![](images/globaldataconcat.png)
 
+**FINAL GLOBAL DATASET**
+
+![](images/geoglobaldata.png)
+
+**All Null Values Managed for Final Global Dataset**
+
+![](images/geoglobaldataisnull.png)
+
 </br>
 
-#### *United States Data* 
+### *UNITED STATES DATA* 
 </br>
 
 **United States Raw Dataset**
@@ -127,9 +142,16 @@ This data exploration will provide a broad level overview of the Covid-19 pandem
 
 ![](images/usdataclean.png)
 
-</br>
+**FINAL US DATASET**
+
+![](images/usgeodata.png)
+
+**Null Values Managed for Final US Dataset**
+
+![](images/usdataisnull.png)
 
 ---
+
 ## Visualization
 
 </br>
@@ -172,18 +194,6 @@ This data exploration will provide a broad level overview of the Covid-19 pandem
 
 ##### **Scatter Plots**
 
-![](images/gdpdeathscatter.png)
-
-</br>
-
-![](images/gdpscatter.png)
-
-</br>
-
-![](images/gdptestscatter.png)
-
-</br>
-
 ![](images/popdenscatter.png)
 
 </br>
@@ -195,6 +205,66 @@ This data exploration will provide a broad level overview of the Covid-19 pandem
 ##### **Pair Plot**
 
 ![](images/pair.png)
+
+---
+
+## **StatsModel Summary**
+
+</br>
+
+### *TOTAL CASES PER MILLION VS GDP*
+
+</br>
+
+**With Constant**
+
+![](images/output1.jpg)
+
+**Without Constant**
+
+![](images/output2.jpg)
+
+</br>
+
+![](images/gdpscatter.png)
+
+</br>
+
+### *DEATHS PER MILLION VS GDP*
+
+</br>
+
+**With Constant**
+
+![](images/output3.jpg)
+
+**Without Constant**
+
+![](images/output4.jpg)
+
+</br>
+
+![](images/gdpdeathscatter.png)
+
+</br>
+
+### *TESTS PER MILLION VS GDP*
+
+</br>
+
+**With Constant**
+
+![](images/output5.jpg)
+
+**Without Constant**
+
+![](images/output6.jpg)
+
+</br>
+
+![](images/gdptestscatter.png)
+
+</br>
 
 ---
 
